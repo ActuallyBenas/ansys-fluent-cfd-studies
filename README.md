@@ -62,6 +62,3 @@ The duct report emphasizes visualization and comparison rather than numerical va
 
 These studies were completed in a **three-person UCF course team**. Plots and numerical results come from the team submissions rather than from independently verified new runs.
 
-**Individual contribution:** _Add a short, specific account of the simulation setup, runs, plotting, and analysis that you personally completed before publishing. Do not claim sole authorship of team work._
-
-> Confirm course and teammate permission to share team-produced figures or files publicly. No Ansys solver files are included here; the PDF is a presentation of submitted team results.
