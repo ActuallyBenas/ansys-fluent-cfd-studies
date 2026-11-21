@@ -58,7 +58,15 @@ The duct report emphasizes visualization and comparison rather than numerical va
 4. Quantify duct pressure loss using consistently defined inlet and outlet locations.
 5. Add original Fluent project and mesh files only if available and permissible to publish.
 
-## Team-project disclosure
 
-These studies were completed in a **three-person UCF course team**. Plots and numerical results come from the team submissions rather than from independently verified new runs.
+### My Contributions
+
+As part of a three-person engineering team, I contributed to the computational fluid dynamics analysis of laminar flow over a flat plate and airflow through a converging-diverging duct using Ansys Fluent.
+
+My contributions included:
+- Analyzing CFD-generated velocity and pressure contours to evaluate fluid flow behavior.
+- Evaluating boundary-layer development, wall shear stress, and skin-friction coefficients.
+- Comparing numerical simulation results with theoretical fluid mechanics calculations to assess accuracy and potential sources of error.
+- Interpreting the effects of changing flow conditions on pressure and velocity distributions.
+- Contributing to the documentation and presentation of simulation results.
 
